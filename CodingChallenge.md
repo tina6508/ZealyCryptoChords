@@ -1,20 +1,20 @@
 # Coding Challenge Submission <br><br>
 
 ## Description
-Describe your project here
-Change the discord icon of the web page
+
+Change the discord icon of the web page with new color one.
 
 ## Prerequisites, Dependencies, Versions
-Please add anything here you've built that requires the above specifics
+
 git clone git@github.com:hemilabs/CryptoChords.git
 The above command fail. So use the following instead
 git clone https://github.com/hemilabs/CryptoChords.git
 
 ## Licensing
-Please state if license is CC, MIT or ISC or other (please no GPL)
+public
 
 ## Outside Libraries
-Link any outside open source libraries used
+Nil
 
 ## Steps
 Tell us how to run it locally
